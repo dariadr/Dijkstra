@@ -1,1 +1,1 @@
-Dijkstra's algorithm in an undirected graph
+Dijkstra's algorithm on an undirected graph
